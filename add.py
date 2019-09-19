@@ -1,4 +1,4 @@
-x=5;
-y=9;
+x=int(input("Enter The First Number"));
+y=int(input("Enter The Second Number"));
 z=x+y;
 print (z)
